@@ -14,4 +14,6 @@ void main()
 	printf("choice=%c\n",choice);
 	printf("ch1=%c ch2=%c",ch1,ch2);
 	
+	long number2 = 40000;
+	printf("number2=%d",number2);
 }
